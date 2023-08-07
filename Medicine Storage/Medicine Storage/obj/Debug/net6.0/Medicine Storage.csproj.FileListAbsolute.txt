@@ -1,0 +1,15 @@
+D:\Dot Net\Medicine Storage\Medicine Storage\bin\Debug\net6.0\Medicine Storage.exe
+D:\Dot Net\Medicine Storage\Medicine Storage\bin\Debug\net6.0\Medicine Storage.deps.json
+D:\Dot Net\Medicine Storage\Medicine Storage\bin\Debug\net6.0\Medicine Storage.runtimeconfig.json
+D:\Dot Net\Medicine Storage\Medicine Storage\bin\Debug\net6.0\Medicine Storage.dll
+D:\Dot Net\Medicine Storage\Medicine Storage\bin\Debug\net6.0\Medicine Storage.pdb
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.csproj.AssemblyReference.cache
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.AssemblyInfoInputs.cache
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.AssemblyInfo.cs
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.csproj.CoreCompileInputs.cache
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.dll
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\refint\Medicine Storage.dll
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.pdb
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\Medicine Storage.genruntimeconfig.cache
+D:\Dot Net\Medicine Storage\Medicine Storage\obj\Debug\net6.0\ref\Medicine Storage.dll

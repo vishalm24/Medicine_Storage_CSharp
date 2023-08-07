@@ -1,0 +1,5 @@
+1,Amoxicillin,1500.25,13
+2,Aquasol A,120.50,5
+3,Salagen,100.75,0
+4,Salflex,20.00,150
+5,Paroxetine,600.00,30
